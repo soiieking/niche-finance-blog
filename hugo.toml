@@ -1,4 +1,4 @@
-baseURL = 'https://yourdomain.com/'
+baseURL = 'https://niche-finance-blog.vercel.app/'
 languageCode = 'en-us'
 title = 'Smart Finance & Tech Insights'
 theme = 'hugo-PaperMod'
