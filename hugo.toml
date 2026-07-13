@@ -1,0 +1,13 @@
+baseURL = 'https://yourdomain.com/'
+languageCode = 'en-us'
+title = 'Smart Finance & Tech Insights'
+theme = 'hugo-PaperMod'
+
+[params]
+    defaultTheme = "auto"
+    showShareButtons = true
+    showReadingTime = true
+
+    # Google AdSense Params (Empty placeholder)
+    [params.adsense]
+        client = "" # Add your pub-XXXXXXXXXXXXXXXX ID here when ready
