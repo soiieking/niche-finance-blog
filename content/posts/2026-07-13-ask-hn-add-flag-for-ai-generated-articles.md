@@ -1,6 +1,6 @@
 ---
 title: "Why a Flag for AI‑Generated Articles on Hacker News Is a Game‑Changer for Finance, Smart‑Saving & Tech Readers"
-date: 2026-07-13
+date: 2026-07-13T12:45:00+08:00
 draft: false
 tags: ["finance", "smart-saving", "technology"]
 summary: "Discover how tagging AI‑generated content on Hacker News can boost transparency, protect investors, and reshape the tech‑media landscape. Learn practical steps for publishers, regulators, and readers to navigate the AI wave responsibly."

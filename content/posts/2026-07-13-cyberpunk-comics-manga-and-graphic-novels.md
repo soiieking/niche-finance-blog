@@ -1,6 +1,6 @@
 ---
 title: "The Rise of Cyberpunk Comics, Manga, and Graphic Novels: Market Trends, Investment Opportunities, and How to Save Smart"
-date: 2026-07-13
+date: 2026-07-13T11:45:00+08:00
 draft: false
 tags: ["finance", "smart-saving", "technology"]
 summary: "Explore the booming cyber‑punk visual storytelling market, its financial impact, and actionable strategies for investors and fans to save smart while diving into dystopian futures."
