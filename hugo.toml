@@ -1,6 +1,6 @@
 baseURL = 'https://niche-finance-blog.vercel.app/'
 languageCode = 'en-us'
-title = 'Smart Finance & Tech Insights'
+title = 'SmartStack: AI, Self-Hosting & Smart Finance'
 theme = 'hugo-PaperMod'
 
 [params]
