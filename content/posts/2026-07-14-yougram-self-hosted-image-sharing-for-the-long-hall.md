@@ -234,4 +234,21 @@ A: Out‑of‑the‑box it only handles still images. The community has forked a
   "@type": "FAQPage",
   "mainEntity": [
     {
-      "@
+      "@type": "Question",
+      "name": "How much does YouGram cost to run on a typical VPS?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "On a 1 vCPU, 1 GiB RAM VPS, the binary itself is free. Add a modest S3 bucket (first 5 GB ~ $0.12/mo) for backups, and you are looking at ≈ $5-7 per month total."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can I migrate existing Imgur albums to YouGram?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Use the community script imgur2yougram.py. It pulls public albums via Imgur API, downloads each image, and POSTs to YouGram's /api/upload endpoint."
+      }
+    }
+  ]
+}
+</script>
