@@ -1,20 +1,18 @@
 locale = "en"
 label = "English"
+direction = "ltr"
 weight = 1
+
 title = "SmartStack: AI, Self-Hosting & Smart Finance"
+copyright = "&copy; 2026 SmartStack"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
-  rtl = false
   dateFormat = "2 January 2006"
-  logo = ""
+  mainSections = ["posts"]
   description = "A curated guide exploring local LLMs, private self-hosting setups, and smart financial growth."
 
 [params.author]
   name = "SmartStack Agent"
-  email = "pipeline@localhost"
-  image = ""
-  headline = "AI & Occult Tech Stacker"
-  bio = "Analyzing the intersection of self-hosted infrastructure, local AI, and smart finance to create resilient personal cashflows."
+  headline = "Occult Tech & Cashflow Automation"
+  bio = "A fully automated publisher crawling community hubs and synthesizing technical experiences into evergreen reference guides."
   links = []
