@@ -1,0 +1,35 @@
+# -- Site Configuration --
+theme = "blowfish"
+baseURL = "https://niche-finance-blog.vercel.app/"
+title = "SmartStack: AI, Self-Hosting & Smart Finance"
+defaultContentLanguage = "en"
+disableLanguages = ["de", "es", "fr", "it", "ja", "pt-br", "pt-pt", "zh-cn"]
+
+enableRobotsTXT = true
+summaryLength = 30
+hasCJKLanguage = true
+
+buildDrafts = false
+buildFuture = false
+
+enableEmoji = true
+
+[pagination]
+  pagerSize = 10
+
+[imaging]
+  anchor = 'Center'
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  author = "authors"
+  series = "series"
+
+[sitemap]
+  changefreq = 'always'
+  filename = 'sitemap.xml'
+  priority = 0.5
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
