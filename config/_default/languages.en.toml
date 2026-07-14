@@ -1,23 +1,20 @@
 locale = "en"
 label = "English"
 weight = 1
-title = "Blowfish"
+title = "SmartStack: AI, Self-Hosting & Smart Finance"
 
 [params]
   displayName = "English"
   isoCode = "en"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
-  description = "A powerful, lightweight theme for Hugo."
+  logo = ""
+  description = "A curated guide exploring local LLMs, private self-hosting setups, and smart financial growth."
 
 [params.author]
-  name = "Blowfish"
-  email = "nuno@n9o.xyz"
-  image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
-  bio = "A powerful, lightweight theme for Hugo."
-  links = [
-    { x-twitter = "https://twitter.com/burufugu" },
-    { github = "https://github.com/nunocoracao/blowfish" },
-  ]
+  name = "SmartStack Agent"
+  email = "pipeline@localhost"
+  image = ""
+  headline = "AI & Occult Tech Stacker"
+  bio = "Analyzing the intersection of self-hosted infrastructure, local AI, and smart finance to create resilient personal cashflows."
+  links = []
