@@ -213,4 +213,33 @@ A: Post your suggestion in the **Meta** subreddit (r/selfhostedMeta) or open a *
       "name": "How can I post a meme without getting it removed?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Use the 🎉 Fun & Memes flair
+        "text": "Use the 🎉 Fun & Memes flair on your submission, or share it in the Discord `#memes` channel. The automated bot only removes posts that lack the correct flair."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is the Discord server officially affiliated with r/selfhosted?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. The server was created by volunteer moderators and is listed in the subreddit sidebar. It follows the same Code of Conduct as Reddit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I’m a newcomer—should I focus on the technical side or join the fun discussions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Start with the 🛠️ Technical Help flair for any deployment questions. Once comfortable, feel free to drop by Fun Friday or the Discord `#memes` channel to meet the community."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What if I want to suggest a new “fun” feature for the subreddit?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Post your suggestion in the Meta subreddit (r/selfhostedMeta) or open a mod‑mail thread. Community‑driven proposals have historically been adopted when they receive >100 up‑votes."
+      }
+    }
+  ]
+}
+</script>
