@@ -1,0 +1,11 @@
+<!-- Custom Google AdSense Integration -->
+{{ if .Site.Params.adsense.client }}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{ .Site.Params.adsense.client }}"
+     crossorigin="anonymous"></script>
+{{ end }}
+
+<!-- Vercel Speed Insights -->
+<script>
+  window.si = window.si || function () { (window.siq = window.siq || []).push(arguments); };
+</script>
+<script defer src="/_vercel/speed-insights/script.js"></script>
