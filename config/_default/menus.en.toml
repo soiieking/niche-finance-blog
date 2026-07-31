@@ -2,6 +2,11 @@
 # The main menu is displayed in the header at the top of the page.
 
 [[main]]
+  name = "About"
+  url = "/about/"
+  weight = 5
+
+[[main]]
   name = "Self-Hosting"
   url = "/tags/selfhosted/"
   weight = 10
