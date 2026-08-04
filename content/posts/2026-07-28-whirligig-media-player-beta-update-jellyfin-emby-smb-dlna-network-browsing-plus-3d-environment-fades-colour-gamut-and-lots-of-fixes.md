@@ -1,1 +1,0 @@
-Thinking process complete. Proceeding directly to the formatted article.
