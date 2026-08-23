@@ -1,6 +1,6 @@
 # -- Site Configuration --
 theme = "congo"
-baseURL = "https://www.smart-stacking.com/"
+baseURL = "https://smart-stacking.com/"
 title = "SmartStack: AI, Self-Hosting & Smart Finance"
 defaultContentLanguage = "en"
 disableLanguages = ["de", "es", "ja", "zh-Hans"]
