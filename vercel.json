@@ -4,18 +4,5 @@
       "HUGO_VERSION": "0.164.0"
     }
   },
-  "buildCommand": "hugo --gc --minify",
-  "redirects": [
-    {
-      "source": "/:path*",
-      "has": [
-        {
-          "type": "host",
-          "value": "www.smart-stacking.com"
-        }
-      ],
-      "destination": "https://smart-stacking.com/:path*",
-      "permanent": true
-    }
-  ]
+  "buildCommand": "hugo --gc --minify"
 }
